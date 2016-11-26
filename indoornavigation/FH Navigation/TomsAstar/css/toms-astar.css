@@ -1,0 +1,72 @@
+*, *:before, *:after, *:focus {
+  box-sizing: border-box;
+}
+
+.map {
+  background-color: #CCC;
+  position: relative;
+  width: 100%;
+  max-width: 800px;
+  margin: auto;
+}
+
+.map img {
+  max-height: 100%;
+  display: block;
+  width: auto;
+  dispaly: relative;
+}
+
+.map .base {
+  z-index: 1;
+}
+
+.map .grid {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: auto;
+  z-index: 10;
+  opacity: 0.5;
+}
+
+.map .waypoint:after {
+  content: "";
+  display: block;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 50%;
+  height: 50%;
+  border-radius: 50%;
+}
+
+.map .waypoint.path:after {
+  background-color: #1398E4;
+}
+
+.map .waypoint.start:after {
+  background-color: orange;
+}
+
+.map .waypoint.end:after {
+  background-color: green;
+}
+
+.grid-box {
+  background-color: transparent;
+  width: 3.5714285714%;
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.3);
+  z-index: 100;
+}
+
+.grid-box:before {
+  content: "";
+  display: block;
+  padding-top: 100%;
+}
+
+/*# sourceMappingURL=toms-astar.css.map */

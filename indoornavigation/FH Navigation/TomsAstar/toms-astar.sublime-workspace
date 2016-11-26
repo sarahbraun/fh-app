@@ -1,0 +1,1523 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bemerkunge",
+				"bemerkungen_2"
+			],
+			[
+				"plain",
+				"plainTextMsg〔variable〕"
+			],
+			[
+				"bildungsk",
+				"bildungskarenzBeginn"
+			],
+			[
+				"bildun",
+				"bildungskarenzBeginn"
+			],
+			[
+				"fLernaufw",
+				"fLernaufwand2"
+			],
+			[
+				"Ver",
+				"Vertragsbeginn"
+			],
+			[
+				"html",
+				"htmlMsg〔variable〕"
+			],
+			[
+				"tel",
+				"telefon"
+			],
+			[
+				"iso",
+				"iso-8859-1(5"
+			],
+			[
+				"ma",
+				"macher@invesy"
+			],
+			[
+				"m",
+				"mailfrom"
+			],
+			[
+				"cla",
+				"class=〔attribute〕"
+			],
+			[
+				"laender",
+				"laendervorwahl_handy"
+			],
+			[
+				"laende",
+				"laendervorwahl_telefon"
+			],
+			[
+				"zahlu",
+				"zahlungsweise"
+			],
+			[
+				"ease",
+				"ease-in-out"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"num",
+				"numPages"
+			],
+			[
+				"class",
+				"classOnExit"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"get",
+				"getUserName"
+			],
+			[
+				"colG",
+				"colHellGrau"
+			],
+			[
+				"list-sty",
+				"list-style-position"
+			],
+			[
+				"sen",
+				"sendTo"
+			],
+			[
+				"error",
+				"errorMsgs"
+			],
+			[
+				"col",
+				"colGrau"
+			],
+			[
+				"err",
+				"erreichbarZeit"
+			],
+			[
+				"le",
+				"lehrgaenge"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"lehrg",
+				"lehrgaengePrivat"
+			],
+			[
+				"lists",
+				"list-style"
+			],
+			[
+				"lehr",
+				"lehrgaengePrivat"
+			],
+			[
+				"changeim",
+				"changeImageLinkTreeView"
+			],
+			[
+				"addIma",
+				"addImageLinkName"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"too",
+				"toolbar"
+			],
+			[
+				"toolba",
+				"toolbar-dragger-width"
+			],
+			[
+				"remo",
+				"removeFormat"
+			],
+			[
+				"border-co",
+				"border-color-bright"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"post",
+				"postTo"
+			],
+			[
+				"preve",
+				"preventDefault"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 159.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"openin",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"browp",
+				"Preferences: Browse Packages"
+			],
+			[
+				"syht",
+				"Set Syntax: HTML"
+			],
+			[
+				"sypy",
+				"Set Syntax: Python"
+			],
+			[
+				"spy",
+				"Set Syntax: Python"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syopy",
+				"Set Syntax: Regular Expressions (Python)"
+			],
+			[
+				"syp",
+				"Set Syntax: Python"
+			],
+			[
+				"packetremov",
+				"Package Control: Remove Package"
+			],
+			[
+				"sysq",
+				"Set Syntax: SQL"
+			],
+			[
+				"Snippet: ",
+				"Snippet: divtc"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"syh5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"sh5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"sycss",
+				"Set Syntax: CSS"
+			],
+			[
+				"syless",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"syht5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"sysass",
+				"Set Syntax: Sass"
+			],
+			[
+				"syhtml",
+				"Set Syntax: HTML5"
+			],
+			[
+				"sysql",
+				"Set Syntax: SQL"
+			],
+			[
+				"syhtm",
+				"Set Syntax: HTML5"
+			],
+			[
+				"packcon",
+				"Package Control: Remove Package"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packup",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"packconup",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"synle",
+				"Set Syntax: LESS"
+			],
+			[
+				"html5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"syoy",
+				"Set Syntax: OCamlyacc"
+			],
+			[
+				"package up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"SYPY",
+				"Set Syntax: Python"
+			],
+			[
+				"sft",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"javsc",
+				"Format: Javascript"
+			],
+			[
+				"javas",
+				"Format: Javascript"
+			],
+			[
+				"fold",
+				"Bracket Highlighter: Fold by Brackets"
+			],
+			[
+				"bracket",
+				"Bracket Highlighter: Match Brackets"
+			],
+			[
+				"brack",
+				"Bracket Highlighter: Select Bracket Content"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"bra",
+				"Bracket Highlighter: Match Brackets"
+			],
+			[
+				"synxml",
+				"Set Syntax: XML"
+			],
+			[
+				"synjsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synjav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"setting",
+				"Preferences: Settings - Default"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 155.0,
+		"history":
+		[
+			"view.encoding()",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/thomasmacher/Documents/FH-Eisenstadt/AppProjekt/FH Navigation/TomsAstar"
+	],
+	"file_history":
+	[
+		"/Users/thomasmacher/invesy-projects/wirbauenaufkunst.at/site/templateRessources/pT/css/wirbauenaufkunst.css.map",
+		"/Users/thomasmacher/invesy-projects/wirbauenaufkunst.at/site/templateRessources/cT_imageAndText/cT_imageAndText",
+		"/Users/thomasmacher/invesy-projects/wirbauenaufkunst.at/site/templateRessources/pT/pT",
+		"/Users/thomasmacher/invesy-projects/wirbauenaufkunst.at/site/form_manageUsers",
+		"/Users/thomasmacher/invesy-projects/wirbauenaufkunst.at/site/scripts/fetch_contextUsers",
+		"/Users/thomasmacher/invesy-projects/wirbauenaufkunst.at/config.codekit",
+		"/Users/thomasmacher/invesy-projects/wirbauenaufkunst.at/site/templateRessources/pT/scss/wirbauenaufkunst.scss",
+		"/Users/thomasmacher/invesy-projects/humboldt-website/site/templateRessources/pT/pTmacro_contents",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/pT/pTmacro_contents",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/pT/scss/humboldt.scss",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/pT/scss/_normalize.scss",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/pT/css/humboldt.css",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/pT/css/humboldt.css.map",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/pT/scss/_media-queries.scss",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/cT_logoList/cT_logoList",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/rT_default/rT_default",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/rT_portalContent/rT_portalContent",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/dlgmacro_invesyPage",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/pT/pTmacro_footer",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/pT/pT",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/pT/pT_navigation",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/rT_news/rT_news",
+		"/Users/thomasmacher/invesy-projects/humboldt-website/site/templateRessources/pT/pTmacro_head",
+		"/Users/thomasmacher/Library/Application Support/Sublime Text 3/Packages/User/SFTP.errors.log",
+		"/Users/thomasmacher/Documents/Unity-projects/VectrosityTest/Assets/Vectrosity 5/Vectrosity 5 Documentation/Vectrosity changelog.txt",
+		"/Users/thomasmacher/Documents/Unity-projects/VectrosityTest/Assets/VectrosityDemos/Scripts/PowerBar/PowerBar.js",
+		"/Users/thomasmacher/Documents/Unity-projects/VectrosityTest/Assets/VectrosityDemos/Scripts/_Simple3DObject/Simple3D 3.js",
+		"/Users/thomasmacher/Documents/Unity-projects/VectrosityTest/Assets/VectrosityDemos/Scripts/Highlight/Highlight.js",
+		"/Users/thomasmacher/Documents/Unity-projects/VectrosityTest/Assets/VectrosityDemos/Scripts/Mask/MaskLine2.js",
+		"/Users/thomasmacher/Documents/Unity-projects/VectrosityTest/Assets/VectrosityDemos/Scripts/Xray/XrayLineData.js",
+		"/Users/thomasmacher/Documents/Unity-projects/VectrosityTest/Assets/VectrosityDemos/Scripts/Xray/VectorObject.js",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/dlg_invesyPage",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/cT_default/cT_default",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/cT_textWithIframe/cT_textWithIframe",
+		"/Users/thomasmacher/tempfiles/humboldt-html-mail.html",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/cT_newsTeaser/cT_newsTeaser",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/cT_portalStartBox/cT_portalStartBox",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/dlg_contentSettings",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/dlg_invesyImage",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/cT_portalStartBox/dlgmacro_editImageSettings",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/cT_portalStartBox/dlgmacro_addImageSettings",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/form_changeInvesyImageData",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/form_addInvesyImage",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/cT_portalStartBox/fetch_hflPortals",
+		"/Users/thomasmacher/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_kursBestellung/fetch_kursinteresse",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/form_changeInvesyPageData",
+		"/Users/thomasmacher/tempfiles/python-test/pyexample.py",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/dlgmacro_invesyContent",
+		"/Users/thomasmacher/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/cT_hflStartBox/cT_hflStartBox",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/rT_portal/rT_default",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_kursBestellung/macro_hiddenForm",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_kursBestellung/sendOrder",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_kursBestellung/fT_kursBestellung",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/pT/contentToolbar",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/rT_hflStart/rT_hflStart",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_orderInfoHflAlternativ/sendOrder",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/pT/pTmacro_head",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_kursBestellung/macro_mainForm",
+		"/Users/thomasmacher/Documents/Unity-projects/gravity-test/Assets/Scripts/SheepController.cs",
+		"/Users/thomasmacher/Documents/Unity-projects/gravity-test/Assets/Scripts/GravityBody.cs",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_orderInfoHflAlternativ/fT_orderInfoHflAlternativ.js",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_orderInfoHflAlternativ/fetch_kursinteresse",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_orderInfoHflAlternativ/fT_orderInfoHflAlternativ",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_orderInfoHflAlternativ/getUpdateValues",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_orderInfoHflAlternativ/sql_InfoPaketAnfordern",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/sftp-config.json",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_orderInfoHflAlternativ/sql_addBestellung",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_orderInfoHflAlternati_alt/sendOrder",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_orderInfoHflAlternati_alt/fT_orderInfoHflAlternativ.js",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_orderInfoHflAlternativ/createToken",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_kursBestellung/fT_kursBestellung.js",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/pT/macro_adminToolbar",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/cT_factBox/validate_download",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/cT_downloadsPresse/cT_downloadsPresse",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/cT_downloads/cT_downloads",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/cT_sidebarWerbung/cT_sidebarWerbung",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/form_manageUsers",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_orderInfoHflAlternati_alt/fT_orderInfoHflAlternativ",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/adminScripts/delete_foundObjects",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/adminScripts/add_sidebarWerbung",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_orderInfoHflAlternativ/sql_kursBuchen",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/form_addContent",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/modules/invesy/invesyButtons/adminTasks.js",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/modules/invesy/invesyButtons/addContent.js",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/dlg_adminTasks",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/modules/invesy/invesyButtons/invesyButtons",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/modules/invesy/invesy-init.js",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/modules/invesy/invesyButtons.js",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_orderInfoHflAlternativ/get_factBox",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_kursBestellung/get_factBox",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/adminScripts/testMultipartMail",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/dlg_siteHistory",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/form_redirectChangedPages",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/scripts/testRandom",
+		"/Users/thomasmacher/python2.7-zope/lib/python2.7/site-packages/Zope2-2.13.21-py2.7.egg/App/ImageFile.py",
+		"/Users/thomasmacher/invesy-projects/humboldt-invesy-product/Invesy/InvesyFile.py",
+		"/Users/thomasmacher/python2.7-zope/lib/python2.7/site-packages/PIL-1.1.7-py2.7-macosx-10.9-intel.egg/ImageFileIO.py",
+		"/Users/thomasmacher/python2.7-zope/lib/python2.7/site-packages/Zope2-2.13.21-py2.7.egg/ZServer/medusa/filesys.py",
+		"/Users/thomasmacher/python2.7-zope/lib/python2.7/site-packages/zope.browserresource-3.10.3-py2.7.egg/zope/browserresource/file.py",
+		"/Users/thomasmacher/python2.7-zope/lib/python2.7/site-packages/Products.OFSP-2.13.2-py2.7.egg/Products/OFSP/help/File.py",
+		"/Users/thomasmacher/Documents/Unity-projects/BookTest/Assets/Scripts/BoundsTest.cs",
+		"/Users/thomasmacher/Documents/Unity-projects/BookTest/Assets/Scripts/PageSwapTurnControl.cs",
+		"/Users/thomasmacher/Documents/Unity-projects/megafiers test/Assets/Mega-Fiers/Scripts/MegaFiers/MegaBook.cs",
+		"/Users/thomasmacher/Documents/Unity-projects/BookTest/Assets/MegaBook/Scripts/MegaBookBuilder.cs",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_orderInfoHflKurz/sendOrder",
+		"/Users/thomasmacher/Documents/Unity-projects/megafiers test/Assets/Mega-Fiers/ReadMe.txt",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/cT_factBox/cT_factBox",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/modules/kursbestellung/kursbestellung.js",
+		"/Users/thomasmacher/Dropbox/Game-Developer/Pruefung/GAME DEVELOPER PRÜFUNG - notes.txt",
+		"/Users/thomasmacher/invesy-projects/humboldt-invesy-product/Invesy/InvesyFormField.py",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/modules/kursbestellung/min/kursbestellung.min.js",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_kursBestellung/sql_kursBuchen",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/scripts/get_fromHumanId",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/cT_factBox/get_bkLehrgangsProps",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/cT_factBox/get_lehrgangsProps",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/cT_factBox/dlgmacro_editContentSettings",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/cT_kursbeschreibung/cT_kursbeschreibung",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/cT_factBox/kursProps",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_kursBestellung/copy_of_macro_mainForm",
+		"/Users/thomasmacher/Web/pdf-icon-small.svg",
+		"/Users/thomasmacher/Web/pdf-icon-small1.svg",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/pT/css/dnl-icon.svg",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_orderInfoHflAlternativ/getCookieData",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_orderInfoHflAlternativ/getAllCourses",
+		"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/modules/factbox-tabs/factbox-tabs.js",
+		"/Users/thomasmacher/Documents/Unity-projects/tile test/Assets/TileTool/Scripts/TileToolTile.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Users/thomasmacher/invesy-projects/wirbauenaufkunst.at/site/templateRessources",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/pT",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_orderInfoHflAlternativ",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_kursBestellung",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_kursBestellung",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/cT_factBox",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/modules",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/modules/ckeditor",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/pT",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/pT/scss",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/modules/invesy/scss",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_orderInfoHflAlternativ",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/modules/ckeditor",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/pT/scss",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/modules/invesy/scss",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/pT",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/modules/invesy",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/modules",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/pT/scss",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/pT/scss",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/modules/invesy/invesyButtons",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/pT/scss",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/pT/scss",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/pT",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/pT/scss",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/modules/invesy",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_anmHbaPerson",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_anmHbaPerson",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/pT/scss",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/pT",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/pT/scss",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/modules/invesy/invesyButtons",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/pT/scss",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources/fT_userSetPassword",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/modules/invesy",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/modules",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site/templateRessources",
+			"/Users/thomasmacher/invesy-projects/humboldt-website TestServer/site",
+			"<project>",
+			"/Users/thomasmacher/invesy-projects/dabei/site/templateRessources",
+			"<project>",
+			"site/modules/invesy",
+			"<project>",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Regular",
+			"regular",
+			"hover",
+			"text-decoration",
+			"article-image",
+			"mehr",
+			"font-family",
+			"KlavikaBasicLightRegular",
+			"0, 137, 197",
+			"@include ",
+			"shadow",
+			"transition",
+			"0px",
+			"0, 137, 197",
+			"background-color",
+			"0, 137, 196",
+			"background-color",
+			" @include",
+			"0px",
+			"logo",
+			"!",
+			"erlschachen",
+			"getattr",
+			"x",
+			"valuefilter",
+			"span",
+			"get_template",
+			"fetch_template",
+			"hflstartbox",
+			"except",
+			"return",
+			"kontaktnr",
+			"ci",
+			"conversionid",
+			"redirect",
+			"DateTime",
+			"lernaufwand",
+			"email",
+			"ordernummer",
+			"random",
+			"time",
+			"bestellnr",
+			"Kurs",
+			"'))",
+			"bemerkungen_2",
+			", u'\\n\\n'",
+			"'|||',",
+			"\\n\\n",
+			" decodeIt(",
+			"Newsletter",
+			"token",
+			"optional",
+			"_",
+			"join",
+			"rueckrufbox",
+			"bemerkungen_2",
+			"handy_nummer",
+			"handy",
+			"telefon",
+			"email",
+			"bemerkungen",
+			"nachricht",
+			"email",
+			"titel",
+			"tal:block",
+			"span",
+			"_",
+			"newsletter",
+			"sql_",
+			"sql",
+			"ALPHABET",
+			"random",
+			"%s",
+			"mailbox",
+			"kursinteresseDivider",
+			"path",
+			"error in processing sql",
+			"error in processing csvData",
+			"csvdata",
+			"newsle",
+			"agb",
+			"telefon",
+			"sql",
+			"spineangle",
+			"ang",
+			"spineangle",
+			"variant + ",
+			"16",
+			"slideUp",
+			"Raten",
+			"Einmal",
+			"ython: factBox.getProperty('bk16preisEinmalGesamt', False)",
+			"id=\"pGesamt\"",
+			"bestellnr",
+			"vorname",
+			"-1",
+			"bic",
+			"sql",
+			"testmodus",
+			">\n",
+			"submit",
+			"form",
+			"variant",
+			"hide()",
+			"show()",
+			"slideDown",
+			"slideUp()",
+			"variant",
+			"action",
+			"context",
+			"h4",
+			"h3",
+			"False",
+			"2",
+			"h3",
+			"h4",
+			"h3",
+			"bk20",
+			"bk16",
+			"h3",
+			"font-family",
+			"kursprops",
+			"tabbody",
+			"structure request",
+			"79.9",
+			"258.6",
+			"fill",
+			"<a href=\"\" tal:content=\"structure python:getattr(file, 'linktext', 'Kursbeschreibung')\" tal:attributes=\"href file/absolute_url\" target=\"_blank\"></a>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Light",
+			"$colMain",
+			"0",
+			"slideUp(100)",
+			"slideDown(100)",
+			"",
+			"bildungskarenzBeginn",
+			"sans-serif",
+			"",
+			"confirm",
+			"one-indent",
+			"field-third",
+			"field/render",
+			"",
+			"numEntries",
+			"border-radius: 2px;",
+			"border-radius: 3px;",
+			"\\t",
+			"",
+			"\\;\\n\\t",
+			"msgSaved",
+			"openItem",
+			"opened",
+			"tabs",
+			"cw",
+			"dlgItems",
+			"me",
+			"closeButton",
+			"myForm",
+			"myItem",
+			"that",
+			"editIcons",
+			"[",
+			"myFields",
+			"<strong tal:content=\"python:myData['hbaLehrgang1']['value']\">",
+			"/>",
+			"']['value']\"/>'",
+			"'label': u'",
+			"), 'label': ''}",
+			"abschluss",
+			"altValue=''",
+			"</strong>\\n\\t\\t</li>\\n\\t\\t<li>",
+			"</strong>\\n\\t\\t</li>\\n",
+			"altValue='-'",
+			"myData",
+			"",
+			"ausbildung",
+			"currentUser",
+			"\\'",
+			"bounce_loadAnim",
+			"load-anim",
+			".",
+			"load-anim",
+			"loadAnim",
+			"3\\;\\n\\t\\}",
+			"loadAnim",
+			"css-spinner",
+			"input type=\"checkbox\" value=\"True\" ",
+			"input type=\"checkbox\" value=\"True\"",
+			"- ",
+			"Datei hier wählen",
+			"Datei wählen",
+			"oder per Post",
+			"",
+			"h2",
+			"regKeyStatus",
+			"msgSaved",
+			"me",
+			"closeButton",
+			"myForm",
+			"myItem",
+			"that",
+			"addImageLinkName",
+			"changeTree",
+			"addTree",
+			"openedItem",
+			"tabs",
+			"dlgItems",
+			"cw",
+			"",
+			"\\t",
+			"hasStandorte",
+			"",
+			"aktualisieren",
+			"",
+			"'",
+			"\\t",
+			"",
+			"\\t",
+			", .",
+			"toolbar-dragger",
+			"",
+			"$border-color-dark",
+			"$icon-size",
+			"editor-toolbar",
+			"../img/",
+			"/../img/",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 156.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "",
+	"project": "toms-astar.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pt",
+				"site/templateRessources/pT/pT"
+			],
+			[
+				"sftp",
+				"sftp-config.json"
+			],
+			[
+				"newst",
+				"site/templateRessources/cT_newsTeaser/cT_newsTeaser"
+			],
+			[
+				"ptmaccon",
+				"site/templateRessources/pT/pTmacro_contents"
+			],
+			[
+				"ptmac",
+				"site/templateRessources/pT/pTmacro_contents"
+			],
+			[
+				"forchinim",
+				"site/form_changeInvesyImageData"
+			],
+			[
+				"foraddinvim",
+				"site/form_addInvesyImage"
+			],
+			[
+				"rtporta",
+				"site/templateRessources/rT_portalContent/rT_portalContent"
+			],
+			[
+				"rtdef",
+				"site/templateRessources/rT_default/rT_default"
+			],
+			[
+				"lgogoli",
+				"site/templateRessources/cT_logoList/cT_logoList"
+			],
+			[
+				"normal",
+				"site/templateRessources/pT/scss/_normalize.scss"
+			],
+			[
+				"texif",
+				"site/templateRessources/cT_textWithIframe/cT_textWithIframe"
+			],
+			[
+				"defaul",
+				"site/templateRessources/cT_default/cT_default"
+			],
+			[
+				"mediaqu",
+				"site/templateRessources/pT/scss/_media-queries.scss"
+			],
+			[
+				"prtal",
+				"site/templateRessources/cT_portalStartBox/cT_portalStartBox"
+			],
+			[
+				"ifram",
+				"site/templateRessources/cT_textWithIframe/cT_textWithIframe"
+			],
+			[
+				"formaddimage",
+				"site/form_addInvesyImage"
+			],
+			[
+				"dlginvim",
+				"site/dlg_invesyImage"
+			],
+			[
+				"hflst",
+				"site/templateRessources/cT_hflStartBox/cT_hflStartBox"
+			],
+			[
+				"ctdef",
+				"site/templateRessources/cT_default/cT_default"
+			],
+			[
+				"ctdefau",
+				"site/templateRessources/cT_default/cT_default"
+			],
+			[
+				"humbcss",
+				"site/templateRessources/pT/css/humboldt.css"
+			],
+			[
+				"humbsc",
+				"site/templateRessources/pT/scss/humboldt.scss"
+			],
+			[
+				"contenttool",
+				"site/templateRessources/pT/contentToolbar"
+			],
+			[
+				"media-",
+				"site/templateRessources/pT/scss/_media-queries.scss"
+			],
+			[
+				"startbo",
+				"site/templateRessources/cT_hflStartBox/cT_hflStartBox"
+			],
+			[
+				"pthea",
+				"site/templateRessources/pT/pTmacro_head"
+			],
+			[
+				"sf",
+				"sftp-config.json"
+			],
+			[
+				"sendor",
+				"site/templateRessources/fT_orderInfoHflAlternativ/sendOrder"
+			],
+			[
+				"humscss",
+				"site/templateRessources/pT/scss/humboldt.scss"
+			],
+			[
+				"mainfor",
+				"site/templateRessources/fT_kursBestellung/macro_mainForm"
+			],
+			[
+				"macrohi",
+				"site/templateRessources/fT_kursBestellung/macro_hiddenForm"
+			],
+			[
+				"ctdo",
+				"site/templateRessources/cT_downloads/cT_downloads"
+			],
+			[
+				"ctsidewe",
+				"site/adminScripts/add_sidebarWerbung"
+			],
+			[
+				"adminsc",
+				"site/adminScripts/delete_foundObjects"
+			],
+			[
+				"contentto",
+				"site/templateRessources/pT/contentToolbar"
+			],
+			[
+				"husc",
+				"site/templateRessources/pT/scss/humboldt.scss"
+			],
+			[
+				"ctfac",
+				"site/templateRessources/cT_factBox/cT_factBox"
+			],
+			[
+				"kursbestell",
+				"site/modules/kursbestellung/kursbestellung.js"
+			],
+			[
+				"mainform",
+				"site/templateRessources/fT_kursBestellung/macro_mainForm"
+			],
+			[
+				"ftkub",
+				"site/templateRessources/fT_kursBestellung/fT_kursBestellung"
+			],
+			[
+				"getfrom",
+				"site/scripts/get_fromHumanId"
+			],
+			[
+				"getle",
+				"site/templateRessources/cT_factBox/get_lehrgangsProps"
+			],
+			[
+				"kursbe",
+				"site/templateRessources/fT_kursBestellung/fT_kursBestellung"
+			],
+			[
+				"dnl-",
+				"site/templateRessources/pT/css/dnl-icon.svg"
+			],
+			[
+				"scss",
+				"site/templateRessources/pT/scss/humboldt.scss"
+			],
+			[
+				"ct",
+				"site/templateRessources/cT_factBox/cT_factBox"
+			],
+			[
+				"ctdow",
+				"site/templateRessources/cT_downloads/cT_downloads"
+			],
+			[
+				"ctfa",
+				"site/templateRessources/cT_factBox/cT_factBox"
+			],
+			[
+				"cktree",
+				"site/ck_treeView"
+			],
+			[
+				"foot",
+				"site/templateRessources/pT/pTmacro_footer"
+			],
+			[
+				"config",
+				"config.rb"
+			],
+			[
+				"addinvpag",
+				"site/form_addInvesyPage"
+			],
+			[
+				"formchinvp",
+				"site/form_changeInvesyPageData"
+			],
+			[
+				"site/kursbe/send",
+				"site/templateRessources/fT_kursBestellung/sendOrder"
+			],
+			[
+				"dlgmacon",
+				"site/dlgmacro_invesyContent"
+			],
+			[
+				"formcon",
+				"site/form_addFormContent"
+			],
+			[
+				"formcont",
+				"site/form_addFormContent"
+			],
+			[
+				"changeheader",
+				"site/form_changeHeaderImageData"
+			],
+			[
+				"headeri",
+				"site/dlg_headerImages"
+			],
+			[
+				"getleh",
+				"site/templateRessources/cT_factBox/get_lehrgangsProps"
+			],
+			[
+				"ctcall",
+				"site/templateRessources/cT_callToAction/cT_callToAction"
+			],
+			[
+				"formscss",
+				"site/modules/invesy/scss/_forms.scss"
+			],
+			[
+				"iniscss",
+				"site/templateRessources/pT/scss/_init.scss"
+			],
+			[
+				"initscs",
+				"site/templateRessources/pT/scss/_init.scss"
+			],
+			[
+				"orderfoset",
+				"site/dlg_orderFormSettings"
+			],
+			[
+				"ctglo",
+				"site/templateRessources/cT_glossar/cT_glossar"
+			],
+			[
+				"pt_reg",
+				"site/templateRessources/pT/pT_regions"
+			],
+			[
+				"ptreg",
+				"site/templateRessources/pT/pT_regions"
+			],
+			[
+				"testmul",
+				"site/adminScripts/testMultipartMail"
+			],
+			[
+				"facthms",
+				"site/templateRessources/cT_factBoxHms/cT_factBoxHms"
+			],
+			[
+				"ct_fa",
+				"site/templateRessources/cT_factBox/cT_factBox"
+			],
+			[
+				"ct_f",
+				"site/templateRessources/cT_factBox/cT_factBox"
+			],
+			[
+				"facgetleh",
+				"site/templateRessources/cT_factBox/get_lehrgangsProps"
+			],
+			[
+				"ftkurjs",
+				"site/templateRessources/fT_kursBestellung/fT_kursBestellung.js"
+			],
+			[
+				"hflstar",
+				"site/templateRessources/cT_hflStartBox/cT_hflStartBox"
+			],
+			[
+				"ftkujs",
+				"site/templateRessources/fT_kursBestellung/fT_kursBestellung.js"
+			],
+			[
+				"ftku",
+				"site/templateRessources/fT_kursBestellung/fT_kursBestellung"
+			],
+			[
+				"getr",
+				"site/scripts/get_trueIdFromHumanId"
+			],
+			[
+				"ptre",
+				"site/templateRessources/pT/pT_regions"
+			],
+			[
+				"site",
+				"site/dlg_siteHistory"
+			],
+			[
+				"sitehi",
+				"site/modules/invesy/invesyButtons/siteHistory.js"
+			],
+			[
+				"contenthi",
+				"site/dlg_contentHistory"
+			],
+			[
+				"humboldt",
+				"site/templateRessources/pT/scss/humboldt.scss"
+			],
+			[
+				"dlgsite",
+				"site/dlg_siteHistory"
+			],
+			[
+				"invessc",
+				"site/modules/invesy/scss/invesy.scss"
+			],
+			[
+				"invesysc",
+				"site/modules/invesy/scss/invesy.scss"
+			],
+			[
+				"humsc",
+				"site/templateRessources/pT/scss/humboldt.scss"
+			],
+			[
+				"ptregio",
+				"site/templateRessources/pT/pT_regions"
+			],
+			[
+				"rt_def",
+				"site/templateRessources/rT_default/rT_default"
+			],
+			[
+				"fontic",
+				"site/modules/invesy/scss/_font-icons.scss"
+			],
+			[
+				"inini",
+				"site/modules/invesy/invesy-init.js"
+			],
+			[
+				"this",
+				"site/modules/invesy/scss/_this-site-only.scss"
+			],
+			[
+				"dlgsi",
+				"site/dlg_siteHistory"
+			],
+			[
+				"toolbar",
+				"site/templateRessources/pT/macro_adminToolbar"
+			],
+			[
+				"glossar",
+				"site/modules/glossar/glossar.js"
+			],
+			[
+				"rtstart",
+				"site/templateRessources/rT_hflStart/rT_hflStart"
+			],
+			[
+				"orderisidebar",
+				"site/modules/order-info-sidebar/order-info-sidebar.js"
+			],
+			[
+				"rtst",
+				"site/templateRessources/rT_hflStart/rT_hflStart"
+			],
+			[
+				"defau",
+				"site/templateRessources/cT_default/cT_default"
+			],
+			[
+				"hflstarb",
+				"site/templateRessources/cT_hflStartBox/cT_hflStartBox"
+			],
+			[
+				"ct_def",
+				"site/templateRessources/cT_default/cT_default"
+			],
+			[
+				"invesy.sc",
+				"site/modules/invesy/scss/invesy.scss"
+			],
+			[
+				"_head",
+				"site/templateRessources/pT/scss/_head.scss"
+			],
+			[
+				"fetch",
+				"site/scripts/fetch_sliderImages"
+			],
+			[
+				"invsc",
+				"site/modules/invesy/scss/invesy.scss"
+			],
+			[
+				"scipts/fetch",
+				"site/scripts/fetch_sliderImages"
+			],
+			[
+				"formchhea",
+				"site/form_changeHeaderImageData"
+			],
+			[
+				"ftorside",
+				"site/templateRessources/fT_orderInfoHflSidebar/fT_orderInfoHflSidebar"
+			],
+			[
+				"fetchbody",
+				"site/templateRessources/cT_orderInfoHfl/fetch_bodyClassForImage"
+			],
+			[
+				"formimage",
+				"site/form_addInvesyImage"
+			],
+			[
+				"inves",
+				"site/modules/invesy/invesy.css"
+			],
+			[
+				"mixin",
+				"site/templateRessources/pT/scss/_mixins.scss"
+			],
+			[
+				"dlg_sihi",
+				"site/dlg_siteHistory"
+			],
+			[
+				"dlghis",
+				"site/dlg_contentHistory"
+			],
+			[
+				"nor",
+				"site/templateRessources/pT/scss/_normalize.scss"
+			],
+			[
+				"invini",
+				"site/modules/invesy/invesy-init.js"
+			],
+			[
+				"histo",
+				"site/dlg_siteHistory"
+			],
+			[
+				"jcrop",
+				"site/modules/invesy/scss/_jcrop.scss"
+			],
+			[
+				"thisi",
+				"site/modules/invesy/scss/_this-site-only.scss"
+			],
+			[
+				"_form",
+				"site/modules/invesy/scss/_forms.scss"
+			],
+			[
+				"fonico",
+				"site/modules/invesy/scss/_font-icons.scss"
+			],
+			[
+				"invicon",
+				"site/modules/invesy/scss/_invesy-icons.scss"
+			],
+			[
+				"toolba",
+				"site/templateRessources/pT/contentToolbar"
+			],
+			[
+				"huscss",
+				"site/templateRessources/pT/scss/humboldt.scss"
+			],
+			[
+				"regmain",
+				"site/templateRessources/cT_auszugLehrplan/region_mainContent"
+			],
+			[
+				"fac",
+				"site/templateRessources/cT_factBox/cT_factBox"
+			],
+			[
+				"moderniz",
+				"site/modules/modernizr/modernizr.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
