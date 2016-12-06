@@ -1,0 +1,45 @@
+ZKO,SKO,Beschreibung,
+***EG***
+4,14,WC Herren,
+4,16,WC Damen
+21,7,WC Herren
+21,8,WC Damen
+15,23,Mensa
+8,8,Getränkeautomaten
+15,0,Haupteingang
+7,5,Lift
+19,5,Stiege 1
+6,6,Stiege 2
+4,18,Stiege 3
+21,18,Steige 4
+20,22,Hintereingang
+17,27,vom Studentenwohnheim
+***1OG***
+4,16,WC Damen
+4,14,WC Herren
+19,6,Stiege 1
+4,6,Stiege 2
+4,19,Stiege 3
+19,19,Stiege 4
+7,5,Aufzug
+19,7,WC Herren
+19,9,WC Damen
+19,15,Getränkeautomaten
+***2OG***
+4,16,WC Damen
+4,14,WC Herren
+19,6,Stiege 1
+4,6,Stiege 2
+4,19,Stiege 3
+19,19,Stiege 4
+7,5,Aufzug
+19,7,WC Herren
+19,9,WC Damen
+7,15,Getränkeautomaten
+22,4,Getränkeautomaten
+12,3,Wasserspender
+2,2,HS1
+7,2,HS2
+14,2,HS3
+18,2,HS4
+19,2,HS5

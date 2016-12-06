@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sarah Astar</title>
+    <link rel="stylesheet" href="css/toms-astar.css">
+</head>
+<body>
+    <select name="endpoint" id="endpoint" onchange="searchEndpoint(this.value)">
+        <option value="10,3">001 Bibliothek</option>
+        <option value="10,3">002Bibliothek</option>
+        <option value="10,3">003 Bibliothek</option>
+        <option value="2,8">004</option>
+        <option value="2,12">005</option>
+        <option value="2,15">006Teeküche</option>
+        <option value="2,20">007</option>
+        <option value="3,20">008Medien Labor</option>
+        <option value="3,20">009</option>
+        <option value="10,18">012</option>
+        <option value="10,16">013</option>
+        <option value="8,16">014Erste Hilfe Zimmer</option>
+        <option value="4,12">015a</option>
+        <option value="4,10">015b</option>
+        <option value="4,8">015c</option>
+        <option value="19,10">016</option>
+        <option value="19,11">017a</option>
+        <option value="19,12">017b</option>
+        <option value="19,13">017c</option>
+    </select>
+    <div class="map" id="mainMap">
+       <img src="img/eg.svg" alt="eg" class="base">
+       <!-- <img src="img/eg-grid.svg" alt="eg grid" class="grid">  -->
+    </div>
+    <script type='text/javascript' src='js/jquery-1.7.1.min.js'></script>
+	<script type='text/javascript' src='js/astar.js'></script>
+	<script src="js/EG.js"></script>
+	<script src="js/map-search.js"></script>
+</body>
+</html>
