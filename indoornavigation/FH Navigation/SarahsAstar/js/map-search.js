@@ -57,11 +57,17 @@ function drawGrid(x, y) {
     var result = astar.search(graphEG, start, end);
 
     // Ergebnisse anzeigen, Endpunkt weglassen (length - 1). Der wird danach extra gestaltet
-    for (i = 0; i < result.length - 1; i++) {
-        // Style für jeden gefundenen Wegpunkt hinzufügen
-        gridElems[ result[i].x ][ result[i].y ].classList.add('waypoint', 'path');
-    }
-
+    window.setTimeout(function() {
+        for (i = 0; i < result.length - 1; i++) {
+            (function(ind) {
+                // jeden Wegpunkt nach 100 millisekunden hinzufügen
+                setTimeout(function(){
+                    // Style für jeden gefundenen Wegpunkt hinzufügen
+                    gridElems[ result[ind].x ][ result[ind].y ].classList.add('waypoint', 'path');
+                }, 100 * ind);
+            })(i);
+        }
+    }, 100);
     // Start- und Endpunkt zeigen:
     gridElems[startY][startX].classList.add('waypoint', 'start');
     gridElems[endY][endX].classList.add('waypoint', 'end');

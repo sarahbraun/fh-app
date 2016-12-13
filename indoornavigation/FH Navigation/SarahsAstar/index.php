@@ -19,9 +19,6 @@
     }
     echo "</select>";
     ?>
-    <br>
-    oder suchen: 
-    <input type="text" name="raumfinder" id="raumfinder" />
     <br><br>
     <div class="map" id="mainMap">
        <img src="img/eg.svg" alt="eg" class="base">
