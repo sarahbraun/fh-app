@@ -13,9 +13,9 @@
 .content.wide {width:100%;}
 .content .btn {width:100%;}
 
-#start {color:#666}
+#start {color:#666;padding:0;}
 #start .content {padding:0;}
-#start .logo {width:70%;margin-top:3em;}
+#start .logo {width:70%;margin-top:2.5em;}
 
 #dashboard {color:#666}
 
